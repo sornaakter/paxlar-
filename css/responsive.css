@@ -1,0 +1,31 @@
+@media(mmax-width: 767px){
+	/*sm*/
+	.top-header p {
+    font-size: 11px;
+	}
+	.top-header ul li a {
+    font-size: 11px;
+	}
+	.banner-content h1 {
+    font-size: 20px;
+   
+    margin-top: 57%;
+	}
+	.payment {
+    margin-bottom: 20px;
+    min-height: 370px;
+	}
+	.wallet h2 {
+    font-size: 15px;
+	}
+    .wall span {
+    width: 40px;
+    height: 40px;
+    margin: 16px 0;
+	}
+	.wallet-img .logoo {
+    top: 33%;
+    transform: translate(-33px, 50px);
+    width: 51%;
+	}
+}
